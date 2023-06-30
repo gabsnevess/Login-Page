@@ -6,6 +6,7 @@ main
     gap: 40px;
     margin-left: 8%;
     max-width: 370px;
+    margin-top: 5%;
 }
 
 #titulos
@@ -42,4 +43,13 @@ main
     border-style: none;
     font-size: 15px;
     font-weight: 500;
+}
+
+#rightImage
+{
+    position: relative;
+    float: right;
+    width: 750px;
+    height: 713px;
+    background-color: #7C3AED;
 }
